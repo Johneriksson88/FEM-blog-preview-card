@@ -27,6 +27,7 @@ p {
   border: 1px solid var(--neutral-black);
   border-radius: 20px;
   box-shadow: 15px 15px black;
+  height: 485px;
 }
 
 .card > img {
